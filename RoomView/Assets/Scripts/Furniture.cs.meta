@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f94a7b7ec86501749bdeb5cf3a42786e
+timeCreated: 1485453289
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - controller: {instanceID: 0}
+  - highlightMaterial: {fileID: 2100000, guid: 7b939e5e799d98a469f594828ebab52e, type: 2}
+  - contextMenuPrefab: {fileID: 1612241957131352, guid: 6be6e979a5bc8084e96091d9c7c7af73,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

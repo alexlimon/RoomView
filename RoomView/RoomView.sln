@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoomView.Plugins", "RoomView.Plugins.csproj", "{EDAFBB8C-0588-0C2D-5EFD-1F3453936510}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoomView", "RoomView.csproj", "{1E6A3174-FDD7-EE02-1B98-A946D1A0EE08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoomView.Editor", "RoomView.Editor.csproj", "{775DCF82-B5A0-4184-5BCA-35C864F692BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDAFBB8C-0588-0C2D-5EFD-1F3453936510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDAFBB8C-0588-0C2D-5EFD-1F3453936510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDAFBB8C-0588-0C2D-5EFD-1F3453936510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDAFBB8C-0588-0C2D-5EFD-1F3453936510}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E6A3174-FDD7-EE02-1B98-A946D1A0EE08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E6A3174-FDD7-EE02-1B98-A946D1A0EE08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E6A3174-FDD7-EE02-1B98-A946D1A0EE08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E6A3174-FDD7-EE02-1B98-A946D1A0EE08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{775DCF82-B5A0-4184-5BCA-35C864F692BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{775DCF82-B5A0-4184-5BCA-35C864F692BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{775DCF82-B5A0-4184-5BCA-35C864F692BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{775DCF82-B5A0-4184-5BCA-35C864F692BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
